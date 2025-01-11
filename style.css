@@ -5808,3 +5808,19 @@ textarea.w-select {
     gap: var(--gap-6xl);
   }
 }
+
+h1 img {
+
+  margin: auto;
+  width: 48vw;
+}
+
+.shape-short-block {
+  visibility: hidden;
+}
+
+@media (min-width: 500px) {
+  h1 img {
+      width: 15rem;
+  }
+}
