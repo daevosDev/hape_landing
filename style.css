@@ -5819,6 +5819,19 @@ h1 img {
   visibility: hidden;
 }
 
+.header-logo-fill img {
+  width: 7rem;
+}
+
+.h1-wrapper {
+  height: 3rem;
+}
+
+.h1-wrapper {
+  visibility: hidden;
+}
+
+
 @media (min-width: 500px) {
   h1 img {
       width: 15rem;
