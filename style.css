@@ -3962,7 +3962,8 @@ textarea.w-select {
   border-bottom: 1px solid var(--stroke);
   border-left: 1px solid var(--stroke);
   width: 540px;
-  height: 64px;
+  height: 8rem;
+  /* height: 64px; */
 }
 .empty-center-block.fill {
   height: auto;
@@ -5824,7 +5825,7 @@ h1 img {
 }
 
 .h1-wrapper {
-  height: 3rem;
+  height: 2rem;
 }
 
 .h1-wrapper {
