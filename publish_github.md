@@ -1,3 +1,13 @@
+https://hape-landing.vercel.app/
+https://go.hape.co/
+
+ref :
+
+https://go.hyperloom.ai/
+
+
+===================
+
 https://github.com/daevosDev/hape_landing
 
 git init

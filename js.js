@@ -9,18 +9,18 @@ const features = [
       title: "AI BUNDLE SCAN",
       description: "Social hype, smart money, trends, and token safety—audited in seconds."
     },
-    {
-      title: "ZERO-RISK TRADING",
-      description: "Automatically flags scams, re-used socials, rug-pulls, low liquidity, and suspicious developers."
-    },
+    // {
+    //   title: "ZERO-RISK TRADING",
+    //   description: "Automatically flags scams, re-used socials, rug-pulls, low liquidity, and suspicious developers."
+    // },
     {
       title: "LIGHTNING SPEED",
       description: "Execute trades faster than the competition reacts."
     },
-    {
-      title: "TOP-TIER REFERRAL PROGRAM",
-      description: "Earn cash rewards, exclusive perks, and VIP access for every referral."
-    },
+    // {
+    //   title: "TOP-TIER REFERRAL PROGRAM",
+    //   description: "Earn cash rewards, exclusive perks, and VIP access for every referral."
+    // },
   ];
   
   // Temps global (en millisecondes)
