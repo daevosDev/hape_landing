@@ -4181,6 +4181,7 @@ textarea.w-select {
   top: auto;
   bottom: -136px;
   left: 0%;
+  /* transform:translate(-50%,0); */
   right: 0%;
 }
 .semibold-s {
