@@ -5371,9 +5371,18 @@ textarea.w-select {
     padding-left: 12px;
     padding-right: 12px;
   }
+
   .h1.text-accent-linear.hero-h1 {
-    /* height: 68px; */
-  }
+    padding: 0;
+    display: flex;
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+}
+
+
   .h1.text-accent-linear.hero-h1._404-text {
     letter-spacing: -4.16px;
     height: 92px;
@@ -5878,9 +5887,13 @@ span.legal_footer {
   }
 }
 @media (max-width: 500px) {
+
   span#titre_hape {
-    font-size: 35px;
+    line-height: 25px;
+    width: 100%;
+    font-size: 24px;
 }
+
 }
 
 /* ============== */
